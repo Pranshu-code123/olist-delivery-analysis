@@ -184,3 +184,4 @@ data/*.csv
 *.db
 .env
 .ipynb_checkpoints/
+notebooks/olist_analysis.ipynb
